@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Researcher with a p
 - **🚀 Current Role:** Graduate Researcher at Gachon University
 - **🎓 Education:** IT Convergence Engineering from Gachon University
 - **🧠 Research Interests:** Computer Vision, Generative Models, Deep Learning, Image & Video Compression, Mchine Learning, Medical Image Analysis
-- **🌐 Website/Portfolio:** [Your Website/Portfolio Link]
+- **🌐 Website/Portfolio:** 
 - **📫 Contact:** abdulrehmansarwar04@outlook.com
 
 ### 🛠️ Skills & Tools
@@ -20,11 +20,6 @@ Welcome to my GitHub profile! I'm an Artificial Intelligence Researcher with a p
 - **Databases:** MySQL, MongoDB
 - **Cloud Platforms:** AWS, Google Cloud, Azure
 
-### 🌟 Featured Projects
-
-- **[Project Name](Link to Project):** Brief description of the project and its impact.
-- **[Project Name](Link to Project):** Brief description of the project and its impact.
-- **[Project Name](Link to Project):** Brief description of the project and its impact.
 
 ### 💬 Let's Connect
 
