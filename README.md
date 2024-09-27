@@ -16,9 +16,8 @@ I am Abdul Rehman, passionate about solving real-world problems through AI. With
 - **Programming Languages:** Python, C++, C, MATLAB, Verilog
 - **AI/ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
 - **Development Tools:** Jupyter, Docker, Git
-- **Databases:** MySQL, MongoDB
 - **Cloud Services:** AWS, Google Cloud, Azure
 
-Feel free to reach out if you have any questions, suggestions, or need assistance with your own projects. Stay tuned for updates!
+Feel free to reach out if you have any questions, or suggestions, or need assistance with your own projects. Stay tuned for updates!
 
 
