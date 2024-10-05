@@ -9,7 +9,7 @@
 </p>
 
 
-I am Abdul Rehman, passionate about solving real-world problems through AI. With expertise spanning multiple domains, I constantly explore new ways to innovate and share my findings with the research community through published articles. I am currently working on CV & LLM project that I'll soon share here. Let's connect and collaborate!
+I am Abdul Rehman, passionate about solving real-world problems through AI. With expertise spanning multiple domains, I constantly explore new ways to innovate and share my findings with the research community through published articles. I am currently working on machine learning project that I'll soon share here. Let's connect and collaborate!
 
 ### 🛠️ Skills & Tools
 
