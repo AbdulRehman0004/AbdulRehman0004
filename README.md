@@ -2,7 +2,7 @@
 ### Abdul Rehman | AI Enthusiast & Researcher
 
 💻 *Building innovative AI solutions since 2018*  
-🚀 *Pushing boundaries in CV, ML, DL & NLP*
+🚀 *Pushing boundaries in ML, DL, NLP & CV*
 
 <p align="center">
   <img src="mine.jpg" alt="Alt Text" width="300"/>
