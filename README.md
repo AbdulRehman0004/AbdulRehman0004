@@ -1,23 +1,53 @@
+# 👋 Hi, I'm Abdul Rehman!
 
-### Abdul Rehman | AI Enthusiast & Researcher
+AI Researcher | Deep Learning | Computer Vision | NLP | LLMs  
+🏫 Gachon University, South Korea
 
-💻 *Building innovative AI solutions since 2018*  
-🚀 *Pushing boundaries in ML, DL, NLP & CV*
+---
 
-<p align="center">
-  <img src="mine.jpg" alt="Alt Text" width="300"/>
-</p>
+## 🚀 My AI Journey
 
+I’m passionate about building intelligent systems and sharing knowledge in the fields of deep learning, natural language processing, and agentic AI.  
+Here’s a glimpse of my journey and favorite projects:
 
-I am Abdul Rehman, passionate about solving real-world problems through AI. With expertise spanning multiple domains, I constantly explore new ways to innovate and share my findings with the research community through published articles. I am currently working on machine learning project that I'll soon share here. Let's connect and collaborate!
+### 🌟 Favorite Repositories
 
-### 🛠️ Skills & Tools
+- [**Deep Learning Repo**](https://github.com/AbdulRehman0004/deep-learning)  
+  A comprehensive collection of deep learning models and experiments.
 
-- **Programming Languages:** Python, C++, C, MATLAB, Verilog
-- **AI/ML Frameworks:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV
-- **Development Tools:** Jupyter, Docker, Git
-- **Cloud Services:** AWS, Google Cloud, Azure
+- [**NNLP: Build Your Own GPT**](https://github.com/AbdulRehman0004/NNLP)  
+  An educational repository where I teach how to create your own GPT-style language model from scratch.
 
-Feel free to reach out if you have any questions, or suggestions, or need assistance with your own projects. Stay tuned for updates!
+- [**AI Agentic**](https://github.com/AbdulRehman0004/ai-agentic)  
+  My latest project focused on developing interesting and innovative AI agents.
 
+---
 
+## 🗺️ What’s Next?
+
+I’m currently exploring:
+- **Multi-Agentic Systems:** Building frameworks for agent collaboration.
+- **Advanced Protocols:** Utilizing cutting-edge protocols like MCP, A2A, etc., for agent communication and orchestration.
+- **Prompt Engineering:** Crafting advanced prompts to unlock LLM capabilities.
+
+---
+
+## 📈 GitHub Stats & Progress
+
+![AbdulRehman0004's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbdulRehman0004&show_icons=true&theme=radical)
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdulRehman0004&theme=radical)
+
+![Visitor Badge](https://komarev.com/ghpvc/?username=AbdulRehman0004&color=green)
+
+---
+
+## 📫 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/abdulrehman0004/)
+
+---
+
+_Always open to collaborations and discussions!_
