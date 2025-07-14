@@ -21,7 +21,7 @@ Here’s a glimpse of my journey and favorite projects:
 - [**Computer Vision Repo**](https://github.com/AbdulRehman0004/DeepLearning)  
   Experiments and projects in computer vision and deep learning.
 
-- [**AI Agentic**](https://github.com/AbdulRehman0004/ai-agentic)  
+- [**AI Agents**](https://github.com/AbdulRehman0004/AI-Agents)  
   My latest project focused on developing innovative AI agents.
 
 ---
