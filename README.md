@@ -3,7 +3,7 @@
 AI Researcher | Deep Learning | Computer Vision | NLP | LLMs  
 🏫 Gachon University, South Korea
 
-![Google Scholar Citations](https://img.shields.io/badge/Citations-71-brightgreen)
+![Google Scholar Citations](https://img.shields.io/badge/Citations-73-brightgreen)
 [Google Scholar Profile](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
 
 ---
