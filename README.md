@@ -172,7 +172,7 @@ I'm always open to:
 
 <div align="center">
 
-### 💭 "Building intelligent systems, one experiment at a time"
+### 💭 "Building intelligent systems"
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 
