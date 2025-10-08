@@ -2,7 +2,7 @@
 
 # 👨‍💻 Abdul Rehman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Researcher+%7C+Deep+Learning+Specialist;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents;Building+Intelligent+Multi-Agent+Systems;Edge-AI" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Researcher+%7C+Deep+Learning+Specialist;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents;Building+Intelligent+Multi-Agent+Systems" alt="Typing SVG" />
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
 
