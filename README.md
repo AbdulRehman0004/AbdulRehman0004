@@ -2,7 +2,7 @@
 
 # 👨‍💻 Abdul Rehman
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Researcher+%7C+Deep+Learning+Specialist;Computer+Vision+%E2%80%A2+NLP+%E2%80%A2+LLMs+%E2%80%A2+AI+Agents;Building+Intelligent+Multi-Agent+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Researcher+%7C+Deep[...]"
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
 
@@ -27,7 +27,7 @@ I'm an **AI enthusiast** passionate about pushing the boundaries of artificial i
 - 🤖 **AI Agents** - Multi-agent systems and orchestration frameworks
 - ⚡ **Edge AI** - Deploying intelligence at the edge with optimized inference
 
-I believe in learning by building and sharing knowledge. Whether it's crafting custom GPT models, designing agentic workflows, or exploring cutting-edge protocols like MCP and A2A—I'm always experimenting with what's next in AI.
+I believe in learning by building and sharing knowledge. Whether it's crafting custom GPT models, designing agentic workflows, or exploring cutting-edge protocols like MCP and A2A—I'm always exp[...]  
 
 ---
 
@@ -106,15 +106,15 @@ Production-ready multi-agent SaaS platform for creating, managing, and orchestra
 ## 🎯 Currently Building
 
 ```yaml
-Project: Agent Hub - Multi-Agent SaaS Platform
-Focus: Production-ready agentic AI orchestration system
+Project: YOLOv8 Model — Customization & .hef Conversion
+Focus: Custom YOLOv8 model modification, export to ONNX, and conversion to .hef for inference
 Tech Stack:
-  - Frontend: Next.js 14, TypeScript, Tailwind CSS
-  - Backend: Prisma, PostgreSQL, Redis
-  - AI: Claude Sonnet 4.5, Multi-agent workflows
-  - Tools: Streaming APIs, Real-time collaboration
-Goal: Create solutions like no one else
-Status: Phase 1 - Foundation ✨
+  - Training: ultralytics YOLOv8, PyTorch
+  - Export: ONNX, onnxruntime
+  - Conversion: Vendor SDK -> .hef (e.g., Hailo) for edge inference
+  - Tools: ONNX simplifier, quantization (INT8/FP16)
+Goal: Build optimized models for hardware-accelerated inference
+Status: Phase 1 - Model export & conversion 🚀
 ```
 
 ---
@@ -133,7 +133,7 @@ Status: Phase 1 - Foundation ✨
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1[...]
 
 </div>
 
