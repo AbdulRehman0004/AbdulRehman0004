@@ -25,7 +25,7 @@ I'm an **AI enthusiast** passionate about pushing the boundaries of artificial i
 - 🤖 **AI Agents** - Multi-agent systems and orchestration frameworks
 - ⚡ **Edge AI** - Deploying intelligence at the edge with optimized inference
 
-I believe in learning by building and sharing knowledge. Whether it's crafting custom GPT models, designing agentic workflows, or exploring cutting-edge protocols like MCP and A2A—I'm always exp[...]  
+I believe in learning by building and sharing knowledge. Whether it's crafting custom GPT models, designing agentic workflows, or exploring cutting-edge protocols like MCP and A2A—I'm always experimenting with the latest in AI.
 
 ---
 
