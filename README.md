@@ -131,8 +131,7 @@ Status: Phase 1 - Model export & conversion 🚀
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1[...]
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
 </div>
 
 ---
