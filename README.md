@@ -8,7 +8,7 @@
 
 ### 🎓 AI Engineer @ AidAll Inc., South Korea
 
-[![Google Scholar](https://img.shields.io/badge/Citations-73-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Citations-79-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-204ba41ab/)
 
 </div>
