@@ -141,7 +141,7 @@ Status: Phase 1 - Model export & conversion 🚀
 
 <div align="center">
 
-**73 Citations** on Google Scholar
+**79 Citations** on Google Scholar
 [View Publications →](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
 
 Research areas: Deep Learning, Computer Vision, Natural Language Processing
