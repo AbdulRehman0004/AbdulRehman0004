@@ -85,12 +85,18 @@ A production-shaped **RAG agent** (query engine, document processor, vector stor
 ## 🎯 Currently Building
 
 ```yaml
-Project:  Custom YOLOv8 → Edge Deployment (.hef)
-Pipeline: Ultralytics YOLOv8  →  ONNX  →  Hailo HAR  →  quantize (INT8)  →  .hef
-Focus:    Custom detection heads · calibration · fused NMS · on-device inference
-Goal:     Reproducible research-to-hardware deployment cookbooks
-Status:   Live ✅  ·  extending to more accelerators
+Project:   edge-llm-bench  —  small-LLM inference benchmark suite for the edge
+Devices:   Raspberry Pi 5 (ARM CPU)  ·  Jetson Orin Nano (GPU)  ·  x86 (baseline)
+Runtimes:  llama.cpp  ·  TensorRT Edge-LLM (Jetson)  ·  a C++/CMake harness on llama.h
+Metrics:   decode tok/s  ·  joules per token  ·  perf/watt  ·  WikiText-2 perplexity
+Method:    predict from memory-bandwidth ceiling → measure → explain the gap
+Goal:      a rigorous, reproducible answer to "which small LLM, on which edge device, at what energy cost?"
+Status:    In active development 🚧  ·  building depth over breadth
 ```
+
+<div align="center">
+<sub>🔬 Research-grade methodology (power logging, variance, quant-vs-quality Pareto) meets production engineering (Docker, CI, JSON-schema results, C++ inference layer).</sub>
+</div>
 
 <!-- ╠══════════════════════════════ TECH STACK ══════════════════════════════╣ -->
 
