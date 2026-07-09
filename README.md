@@ -22,7 +22,9 @@
 
 I build AI systems that **ship** — from first principles to hardware-accelerated inference. My work lives at the intersection of four areas:
 
-<table>
+<div align="center">
+
+<table align="center">
 <tr>
 <td width="25%" align="center">⚡<br/><b>Edge AI</b><br/><sub>Hailo-8 · ONNX · INT8</sub></td>
 <td width="25%" align="center">👁️<br/><b>Computer Vision</b><br/><sub>ViT · Medical · Detection</sub></td>
@@ -30,6 +32,8 @@ I build AI systems that **ship** — from first principles to hardware-accelerat
 <td width="25%" align="center">🤖<br/><b>Agentic AI</b><br/><sub>RAG · Tools · Orchestration</sub></td>
 </tr>
 </table>
+
+</div>
 
 > *Most models die in a notebook. I care about the part after the notebook — the export, the quantization, the `.hef`, the container, the thing that actually runs in front of a user.*
 
