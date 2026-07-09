@@ -1,99 +1,68 @@
 <div align="center">
 
-# 👨‍💻 Abdul Rehman
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&multiline=true&width=650&height=90&lines=AI+Researcher+%7C+Deep+Learning+Enthusiast;Computer+Vision+%7C+NLP+%7C+AI+Agents;Building+Intelligent+Systems" alt="Typing SVG"/>
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500" alt="Coding"/>
+# 👋 Abdul Rehman
 
----
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3200&pause=900&color=2E9EF7&center=true&vCenter=true&width=680&height=45&lines=Edge+AI+%C2%B7+Computer+Vision+%C2%B7+LLMs+%C2%B7+Agentic+AI;I+take+models+out+of+notebooks+and+onto+hardware;Research+%E2%86%92+Production+%E2%86%92+the+Edge" alt="Typing SVG"/>
 
-### 🎓 AI Engineer @ AidAll Inc., South Korea
+### 🎓 AI Engineer @ AidAll Inc. · South Korea
 
-[![Google Scholar](https://img.shields.io/badge/Citations-79-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
+[![Google Scholar](https://img.shields.io/badge/Scholar-79_Citations-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-204ba41ab/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRehman0004)
 
 </div>
 
 ---
 
-## 🚀 About Me
+## 🚀 What I Do
 
-I'm an **AI enthusiast** passionate about pushing the boundaries of artificial intelligence. My research and development span across:
+I build AI systems that **ship** — from first principles to hardware-accelerated inference. My work lives at the intersection of four areas:
 
-- 🧠 **Deep Learning** - Advanced neural architectures and optimization
-- 👁️ **Computer Vision** - Image understanding and visual AI systems
-- 💬 **Natural Language Processing** - From transformers to building GPT from scratch
-- 🤖 **AI Agents** - Multi-agent systems and orchestration frameworks
-- ⚡ **Edge AI** - Deploying intelligence at the edge with optimized inference
+- ⚡ **Edge AI** — compiling and quantizing models to run on real accelerators (Hailo-8, ONNX, INT8)
+- 👁️ **Computer Vision** — Vision Transformers, medical imaging, detection & segmentation
+- 💬 **LLMs** — transformers built from the attention mechanism up, not just called via an API
+- 🤖 **Agentic AI** — RAG pipelines and multi-tool agents that retrieve, reason, and act
 
-I believe in learning by building and sharing knowledge. Whether it's crafting custom GPT models, designing agentic workflows, or exploring cutting-edge protocols like MCP and A2A—I'm always experimenting with the latest in AI.
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<div align="center">
-
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-### AI & ML
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white)
-![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-### Development & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-</div>
+> Most models die in a notebook. I care about the part after the notebook — the export, the quantization, the `.hef`, the container, the thing that actually runs in front of a user.
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Featured Work
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 [AI Agents Framework](https://github.com/AbdulRehman0004/AI-Agents)
-Building innovative multi-agent systems with advanced orchestration, tool integration, and inter-agent communication protocols.
+### ⚡ [Edge AI — Hailo YOLOv8 → `.hef`](https://github.com/AbdulRehman0004/Efficient-AI-Deployment)
+A reproducible cookbook that takes a **custom Ultralytics YOLOv8** model and compiles it into a deployable **Hailo-8** pipeline — ONNX parsing, calibration + fused NMS, and `.hef` compilation. Solves the exact gap the Hailo Model Zoo leaves open for custom heads.
 
-**Tech**: LangChain • Claude • Multi-Agent Systems
+`ONNX` · `Hailo Dataflow Compiler` · `INT8 Quantization` · `NMS`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 💬 [NLP Deep Dive](https://github.com/AbdulRehman0004/NLP)
-Comprehensive NLP implementations from fundamentals to transformers—including a complete **GPT from scratch** tutorial.
+### 💬 [LLM — Build Your Own GPT](https://github.com/AbdulRehman0004/NLP/tree/main/Build_your_GPT)
+A **GPT built from scratch** — tokenization, self-attention, multi-head attention, transformer blocks, and a full training loop. Concepts broken into runnable notebooks, from theory to a working model.
 
-**Tech**: PyTorch • Transformers • Tokenization
+`PyTorch` · `Transformers` · `Self-Attention` · `Tokenization`
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 👁️ [Computer Vision Lab](https://github.com/AbdulRehman0004/DeepLearning)
-End-to-end computer vision projects covering CNNs, object detection, segmentation, and visual understanding.
+### 🤖 [Agentic AI — RAG & Intelligent Agents](https://github.com/AbdulRehman0004/AI-Applications)
+Production-shaped **RAG agent** (query engine, document processor, vector store) plus a **Dockerized AI assistant** with tool use. Retrieval → reasoning → action, packaged to run.
 
-**Tech**: TensorFlow • PyTorch • OpenCV
+`RAG` · `Vector DB` · `LangChain` · `Docker`
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏗️ [Agent Hub - SaaS Platform](https://github.com/AbdulRehman0004/saas-agentic-portfolio)
-Production-ready multi-agent SaaS platform for creating, managing, and orchestrating AI agents at scale.
+### 👁️ [Computer Vision & Research](https://github.com/AbdulRehman0004/AI-Research)
+**Vision Transformers** (with training pipeline), **Medical AI** (COVID-19 diagnosis, ResGLPyramid), and applied ML across healthcare & agriculture — backed by peer-reviewed publications.
 
-**Tech**: Next.js • Claude API • PostgreSQL
+`Vision Transformers` · `Medical Imaging` · `PyTorch` · `CNNs`
 
 </td>
 </tr>
@@ -104,73 +73,62 @@ Production-ready multi-agent SaaS platform for creating, managing, and orchestra
 ## 🎯 Currently Building
 
 ```yaml
-Project: YOLOv8 Model — Customization & .hef Conversion
-Focus: Custom YOLOv8 model modification, export to ONNX, and conversion to .hef for inference
-Tech Stack:
-  - Training: ultralytics YOLOv8, PyTorch
-  - Export: ONNX, onnxruntime
-  - Conversion: Vendor SDK -> .hef (e.g., Hailo) for edge inference
-  - Tools: ONNX simplifier, quantization (INT8/FP16)
-Goal: Build optimized models for hardware-accelerated inference
-Status: Phase 1 - Model export & conversion 🚀
+Project:  Custom YOLOv8 → Edge Deployment (.hef)
+Pipeline: Ultralytics YOLOv8  →  ONNX  →  Hailo HAR  →  quantize (INT8)  →  .hef
+Focus:    Custom detection heads, calibration, fused NMS, on-device inference
+Goal:     Reproducible research-to-hardware deployment cookbooks
+Status:   Live ✅  ·  extending to more accelerators
 ```
 
 ---
 
-## 🌱 What I'm Exploring
-
-- **Multi-Agentic Systems** → Building frameworks where AI agents collaborate intelligently
-- **Advanced AI Protocols** → MCP, A2A, and next-gen agent communication standards
-- **Edge AI Optimization** → Deploying models efficiently on resource-constrained devices
-- **Prompt Engineering** → Crafting advanced prompts to unlock full LLM potential
-- **Production AI** → Taking research from notebooks to scalable real-world systems
-
----
-
-## 📊 Technical Proficiency
+## 🛠️ Tech Stack
 
 <div align="center">
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9)
-</div>
+**Core**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+**LLM & Agents**
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
-## 📚 Research & Publications
-
-<div align="center">
-
-**79 Citations** on Google Scholar
-[View Publications →](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
-
-Research areas: Deep Learning, Computer Vision, Natural Language Processing
+**Edge & Deploy**
+![Hailo](https://img.shields.io/badge/Hailo--8-00A9E0?style=for-the-badge&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always open to:
-- 💡 Discussing AI research and innovative ideas
-- 🤝 Collaborating on interesting projects
-- 📖 Sharing knowledge about AI and machine learning
-- 🚀 Exploring new opportunities in AI
+## 📊 GitHub Activity
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-204ba41ab/)
-[![Google Scholar](https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AbdulRehman0004)
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulRehman0004&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&count_private=true" alt="GitHub Stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulRehman0004&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
 
 </div>
 
 ---
 
+## 📚 Research
+
+**79 citations** on Google Scholar — Deep Learning · Computer Vision · Medical AI · NLP
+[**View publications →**](https://scholar.google.com/citations?hl=en&user=Ey1L1DAAAAAJ)
+
+---
+
 <div align="center">
 
-### 💭 "Building intelligent systems"
+### 💭 *"Research to production to the edge — the part after the notebook is the part that matters."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/Let's_talk-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdul-rehman-204ba41ab/)
 
 </div>
