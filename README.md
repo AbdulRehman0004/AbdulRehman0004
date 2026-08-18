@@ -1,9 +1,9 @@
 <!-- ╔══════════════════════════════ HEADER BANNER ══════════════════════════════╗ -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EC5FF&height=200&section=header&text=Abdul%20Rehman&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=Edge%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20LLMs%20%C2%B7%20Agentic%20AI&descSize=18&descAlignY=60&descColor=C9D1D9&animation=fadeIn" alt="Abdul Rehman — Edge AI · Computer Vision · LLMs · Agentic AI"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:2EC5FF&height=200&section=header&text=Abdul%20Rehman&fontColor=FFFFFF&fontSize=54&fontAlignY=38&desc=AI%20Agents%20%C2%B7%20LLM%20Automation%20%C2%B7%20Edge%20AI%20%C2%B7%20Computer%20Vision&descSize=18&descAlignY=60&descColor=C9D1D9&animation=fadeIn" alt="Abdul Rehman — AI Agents · LLM Automation · Edge AI · Computer Vision"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=2EC5FF&center=true&vCenter=true&width=680&height=42&lines=I+take+models+out+of+notebooks+and+onto+hardware;Research+%E2%86%92+Production+%E2%86%92+the+Edge;Custom+YOLOv8+%E2%86%92+ONNX+%E2%86%92+INT8+%E2%86%92+.hef" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3200&pause=900&color=2EC5FF&center=true&vCenter=true&width=680&height=42&lines=I+build+AI+agents+and+automations+that+run+in+production;Structured+outputs+%C2%B7+evals+%C2%B7+fallbacks+%C2%B7+human+approval;Research+%E2%86%92+Production+%E2%86%92+the+Edge" alt="Typing SVG"/>
 
 <br/>
 
@@ -20,22 +20,22 @@
 
 ## 🚀 What I Do
 
-I build AI systems that **ship** — from first principles to hardware-accelerated inference. My work lives at the intersection of four areas:
+I build AI systems that **ship** — agents and LLM automations with the guardrails a business can actually run on (schema-validated outputs, retries and fallbacks, eval harnesses, human approval gates), and models compiled down to hardware. Four areas:
 
 <div align="center">
 
 <table align="center">
 <tr>
+<td width="25%" align="center">🤖<br/><b>AI Agents</b><br/><sub>LangGraph · MCP · RAG · tool use</sub></td>
+<td width="25%" align="center">⚙️<br/><b>LLM Automation</b><br/><sub>n8n · structured outputs · evals</sub></td>
 <td width="25%" align="center">⚡<br/><b>Edge AI</b><br/><sub>Hailo-8 · ONNX · INT8</sub></td>
 <td width="25%" align="center">👁️<br/><b>Computer Vision</b><br/><sub>ViT · Medical · Detection</sub></td>
-<td width="25%" align="center">💬<br/><b>LLMs</b><br/><sub>Transformers from scratch</sub></td>
-<td width="25%" align="center">🤖<br/><b>Agentic AI</b><br/><sub>RAG · Tools · Orchestration</sub></td>
 </tr>
 </table>
 
 </div>
 
-> *Most models die in a notebook. I care about the part after the notebook — the export, the quantization, the `.hef`, the container, the thing that actually runs in front of a user.*
+> *Most demos die at the prompt. I care about the part after the prompt — the schema, the retry, the eval, the approval gate, the run log, the thing that actually runs in front of a user.*
 
 <!-- ╠══════════════════════════════ FEATURED WORK ══════════════════════════════╣ -->
 
@@ -45,40 +45,42 @@ I build AI systems that **ship** — from first principles to hardware-accelerat
 <tr>
 <td width="50%" valign="top">
 
-### ⚡ [Edge AI — Hailo YOLOv8 → `.hef`](https://github.com/AbdulRehman0004/Efficient-AI-Deployment)
-A reproducible cookbook that compiles a **custom Ultralytics YOLOv8** model into a deployable **Hailo-8** pipeline — ONNX parsing, calibration + fused NMS, and `.hef` compilation. Solves the exact gap the Hailo Model Zoo leaves open for custom detection heads.
+### ⚙️ [Shopify Product Content Engine](https://github.com/AbdulRehman0004/shopify-ai-content-engine)
+An n8n pipeline that turns a bare product into a review-ready marketing kit (SEO, product page, blog, Google + Meta ads, social, email, hero image). **Structured Outputs**, idempotency gate, dry-run, per-product dead-letter, human approval — plus an **eval harness** (length caps, banned words, invented-fact detection, LLM judge) that gates CI and an **MCP server** so any agent can validate drafts and trigger runs.
 
-`ONNX` · `Hailo DFC` · `INT8` · `NMS`
+`n8n` · `OpenAI` · `MCP` · `Evals` · `Python`
 
 </td>
 <td width="50%" valign="top">
 
-### 💬 [LLM — Build Your Own GPT](https://github.com/AbdulRehman0004/NLP/tree/main/Build_your_GPT)
-A **GPT built from scratch** — tokenization, self-attention, multi-head attention, transformer blocks, and a full training loop. Concepts broken into runnable notebooks, from theory to a working model.
+### 🏢 [Agency OS — n8n automation system](https://github.com/AbdulRehman0004/agency-os-n8n)
+Nine guard-railed workflows running a marketing agency over **Asana, Slack, Google Workspace, Airtable, HubSpot**: onboarding, status digests, creative review with Slack buttons, email triage, weekly reporting, bottleneck detection, meeting → tasks. Every AI call is schema-validated with one retry and a deterministic fallback; AI drafts, humans approve; CI enforces the conventions.
 
-`PyTorch` · `Transformers` · `Self-Attention`
+`n8n` · `gpt-4o` · `Airtable` · `Slack` · `HubSpot`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Agentic AI — RAG & Intelligent Agents](https://github.com/AbdulRehman0004/AI-Applications)
-A production-shaped **RAG agent** (query engine, document processor, vector store) plus a **Dockerized AI assistant** with tool use. Retrieval → reasoning → action, packaged to run.
+### 🤖 [RAG & Intelligent Agents](https://github.com/AbdulRehman0004/AI-Applications)
+A **LangGraph** ReAct agent with multi-modal tools (documents, spreadsheets, audio, web, sandboxed code) and a **LlamaIndex + ChromaDB** RAG app, both with Streamlit UIs and Docker. Retrieval → reasoning → action, packaged to run.
 
-`RAG` · `Vector DB` · `LangChain` · `Docker`
+`LangGraph` · `RAG` · `ChromaDB` · `Docker`
 
 </td>
 <td width="50%" valign="top">
 
-### 👁️ [Computer Vision & Research](https://github.com/AbdulRehman0004/AI-Research)
-**Vision Transformers** (with training pipeline), **Medical AI** (COVID-19 diagnosis, ResGLPyramid), and applied ML across healthcare & agriculture — backed by peer-reviewed publications.
+### ⚡ [Edge AI — Hailo YOLOv8 → `.hef`](https://github.com/AbdulRehman0004/Efficient-AI-Deployment)
+A reproducible cookbook that compiles a **custom Ultralytics YOLOv8** model into a deployable **Hailo-8** pipeline — ONNX parsing, calibration + fused NMS, and `.hef` compilation. Solves the gap the Hailo Model Zoo leaves open for custom detection heads.
 
-`Vision Transformers` · `Medical Imaging` · `CNNs`
+`ONNX` · `Hailo DFC` · `INT8` · `NMS`
 
 </td>
 </tr>
 </table>
+
+<sub>Also: [Computer Vision & Medical AI research](https://github.com/AbdulRehman0004/AI-Research) backed by peer-reviewed publications · [GPT built from scratch](https://github.com/AbdulRehman0004/NLP/tree/main/Build_your_GPT).</sub>
 
 <!-- ╠══════════════════════════════ CURRENTLY BUILDING ══════════════════════════════╣ -->
 
@@ -112,9 +114,14 @@ Status:    In active development 🚧  ·  building depth over breadth
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
 **LLM & Agents**<br/>
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 **Edge & Deploy**<br/>
 ![Hailo-8](https://img.shields.io/badge/Hailo--8-00A9E0?style=flat-square)
@@ -183,7 +190,7 @@ Status:    In active development 🚧  ·  building depth over breadth
 <!-- AR monogram signature -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1F6FEB,100:2EC5FF&height=52&width=120&text=AR&fontColor=FFFFFF&fontSize=30&fontAlignY=52" alt="AR"/>
 
-*“Research to production to the edge — the part after the notebook is the part that matters.”*
+*“From prompt to production — the part after the demo is the part that matters.”*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2EC5FF,50:1F6FEB,100:0D1117&height=100&section=footer" alt="footer"/>
 
